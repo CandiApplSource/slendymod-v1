@@ -1,0 +1,19 @@
+SlendyMod - Mechanics & Coding TO-DO List
+
+Stage:
+- Make dust layer move!!
+
+Arrows:
+- Blink Note Mechanics
+	Red notes in the shape of eyes will appear on the strumline, acting as notes. when these eyes are hit, static will appear as the Slenderman draws near. Too close and you shall perish.
+- Static Note Mechanics (alternative to Blink Notes)
+	Static-y notes will appear alongside real notes on the strumline. When hit, static will appear on the screen, distracting the player. Too much static, and the player dies.
+
+Window Events:
+- Window Movement (optional)
+	In the second half of the song after the BPM change, the window moves in small quantities, simply to throw off the player as the song ramps up in intensity.
+
+Game Over:
+- Static transition instead of base game crack and mic drop
+- Dumb Game Over Screen as found in GitHub repo
+- simple text below figure of slenderman appears, mocking the player with silly phrases, or simple phrases such as "game over" "retry", or dev messages and SM:T8P references
