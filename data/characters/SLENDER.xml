@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-15" y="415" sprite="slendermanslendymod" camx="125" camy="-75" color="#000000">
+	<anim name="idle" anim="idle" loop="true"/>
+	<anim name="singDOWN" anim="down" y="-34"/>
+	<anim name="singRIGHT" anim="right" x="-70" y="45"/>
+	<anim name="singLEFT" anim="left" x="73" y="-2"/>
+	<anim name="singUP" anim="up" x="41" y="50"/>
+</character>

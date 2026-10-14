@@ -1,0 +1,53 @@
+{
+	"events": [],
+	"strumLines": [
+		{
+			"keyCount": 4,
+			"notes": [],
+			"position": "dad",
+			"strumScale": 1,
+			"strumSpacing": 1,
+			"visible": false,
+			"type": 0,
+			"characters": [
+				"SLENDER"
+			],
+			"strumPos": [
+				0,
+				50
+			],
+			"vocalsSuffix": "-SLENDER",
+			"strumLinePos": 0.25
+		},
+		{
+			"keyCount": 4,
+			"strumScale": 2,
+			"position": "boyfriend",
+			"notes": [
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 5785.71428571429,
+					"type": 0
+				}
+			],
+			"characters": [
+				"bf"
+			],
+			"type": 1,
+			"visible": true,
+			"strumSpacing": 0.35,
+			"strumPos": [
+				0,
+				50
+			],
+			"strumLinePos": 0.75,
+			"vocalsSuffix": "-BF"
+		}
+	],
+	"codenameChart": true,
+	"scrollSpeed": 2,
+	"chartVersion": "1.6.0",
+	"stage": "field",
+	"noteTypes": []
+}

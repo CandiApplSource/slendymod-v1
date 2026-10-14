@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="175" y="483" sprite="boyfriendslendymod" antialiasing="false" flipX="true" camx="325" camy="-55" isPlayer="true" color="#000000">
+	<anim name="idle" anim="idle" loop="true"/>
+	<anim name="singDOWN" anim="down" x="8" y="-18"/>
+	<anim name="singRIGHT" anim="right" y="-8"/>
+	<anim name="singLEFT" anim="left" x="7" y="-1"/>
+	<anim name="singUP" anim="up" y="12"/>
+</character>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="staticnote.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue instance 10000" x="144" y="46" width="38" height="44"/>
+	<SubTexture name="blue instance 10001" x="144" y="46" width="38" height="44"/>
+	<SubTexture name="blue instance 10002" x="3" y="47" width="38" height="44"/>
+	<SubTexture name="blue instance 10003" x="3" y="47" width="38" height="44"/>
+	<SubTexture name="green instance 10000" x="201" y="3" width="38" height="44"/>
+	<SubTexture name="green instance 10001" x="201" y="3" width="38" height="44"/>
+	<SubTexture name="green instance 10002" x="103" y="46" width="38" height="44"/>
+	<SubTexture name="green instance 10003" x="103" y="46" width="38" height="44"/>
+	<SubTexture name="purple instance 10000" x="3" y="3" width="47" height="41"/>
+	<SubTexture name="purple instance 10001" x="3" y="3" width="47" height="41"/>
+	<SubTexture name="purple instance 10002" x="53" y="3" width="47" height="41"/>
+	<SubTexture name="purple instance 10003" x="53" y="3" width="47" height="41"/>
+	<SubTexture name="red instance 10000" x="103" y="3" width="46" height="40"/>
+	<SubTexture name="red instance 10001" x="103" y="3" width="46" height="40"/>
+	<SubTexture name="red instance 10002" x="152" y="3" width="46" height="40"/>
+	<SubTexture name="red instance 10003" x="152" y="3" width="46" height="40"/>
+</TextureAtlas>

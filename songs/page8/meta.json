@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "SLENDER",
+	"difficulties": [
+		"baby",
+		"moderate",
+		"difficult"
+	],
+	"color": "#272727",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Page 8",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 140
+}

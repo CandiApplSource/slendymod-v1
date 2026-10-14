@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage name="field" folder="field/" zoom="4.05">
+	<girlfriend x="1280" y="720" scale="0" scroll="0" alpha="0"/>
+	<sprite name="Sky" sprite="sky" x="125" y="80" scroll="0.5" antialiasing="false" skewx="0" skewy="0"/>
+	<sprite name="middle" sprite="back" x="123" y="18" scroll="0.69" antialiasing="false"/>
+	<sprite name="ground" sprite="front" x="0" y="0" antialiasing="false"/>
+	<dad x="-32" y="-358" camxoffset="-225" camyoffset="250" scale="0.5" alpha="0.5"/>
+	<boyfriend x="161" y="-341" camxoffset="-305" camyoffset="125" scale="0.45"/>
+</stage>

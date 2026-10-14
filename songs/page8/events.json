@@ -1,0 +1,486 @@
+{
+	"events": [
+		{
+			"params": [
+				285,
+				150,
+				true,
+				64,
+				"sine",
+				"InOut",
+				false
+			],
+			"name": "Camera Position",
+			"time": 0
+		},
+		{
+			"params": [
+				285,
+				300,
+				false,
+				4,
+				"CLASSIC",
+				"In",
+				false
+			],
+			"time": 0,
+			"name": "Camera Position"
+		},
+		{
+			"params": [
+				true,
+				2.55,
+				"camGame",
+				64,
+				"sine",
+				"InOut",
+				"direct",
+				false
+			],
+			"name": "Camera Zoom",
+			"time": 0
+		},
+		{
+			"params": [
+				false,
+				10,
+				"camGame",
+				4,
+				"linear",
+				"In",
+				"direct",
+				false
+			],
+			"time": 0,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				9999999,
+				1,
+				"BEAT",
+				0
+			],
+			"time": 0,
+			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
+				false,
+				-16777216,
+				64,
+				"camHUD"
+			],
+			"time": 0,
+			"name": "Camera Flash"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 6857.14285714286,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 10285.7142857143
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 12000,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 13714.2857142857
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 17142.8571428571,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 18857.1428571429
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 20571.4285714286,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 24000
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 25714.2857142857,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 27428.5714285714
+		},
+		{
+			"params": [
+				2,
+				0.25,
+				"BEAT",
+				0
+			],
+			"time": 27428.5714285714,
+			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 30857.1428571429,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 32571.4285714286
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 34285.7142857143,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 37714.2857142857
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 41142.8571428571,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 44571.4285714286
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 46285.7142857143,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 48000
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 51428.5714285714,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 53142.8571428571
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 54857.1428571429,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 56571.4285714286
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 58285.7142857143,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 60000
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 61714.2857142857,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 63428.5714285714
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 65142.8571428571,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 66857.1428571429
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 68571.4285714286,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 70285.7142857143
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 72000,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 73714.2857142857
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 75428.5714285714,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 77035.7142857143
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 78857.1428571429,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 80571.4285714286
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 82285.7142857143,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 84000
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 85714.2857142857,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 87428.5714285714
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 89142.8571428571,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 90857.1428571429
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 92571.4285714286,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 94285.7142857143
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 96000,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 97714.2857142857
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 99428.5714285714,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 101142.857142857
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 102857.142857143,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 104571.428571429
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 106285.714285714,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				0.5
+			],
+			"name": "Camera Bop",
+			"time": 108000
+		},
+		{
+			"params": [
+				0.5
+			],
+			"time": 109714.285714286,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				9999999,
+				1,
+				"BEAT",
+				0
+			],
+			"time": 109714.285714286,
+			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
+				155
+			],
+			"time": 111428.571428571,
+			"name": "BPM Change"
+		},
+		{
+			"params": [
+				2,
+				1,
+				"BEAT",
+				0
+			],
+			"time": 111428.571428571,
+			"name": "Camera Modulo Change"
+		}
+	]
+}
